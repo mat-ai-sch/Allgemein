@@ -1,0 +1,23 @@
+{
+  "archive_csv": "S:\\Belegungsmanagement\\Abteilungslaufwerk\\Fachbereiche\\Sozialdienst\\Statistik\\Jahresarchiv.csv",
+  "sources": [
+    {
+      "year": 2025,
+      "path": "S:\\Belegungsmanagement\\Abteilungslaufwerk\\Fachbereiche\\Sozialdienst\\Statistik\\2025\\StatBoardReakt_2025.xlsm",
+      "sheet": "Rohdatenimport",
+      "header_row": 12,
+      "first_data_row": 13,
+      "stand_date": "2025-12-31",
+      "enabled": false
+    },
+    {
+      "year": 2024,
+      "path": "S:\\Belegungsmanagement\\Abteilungslaufwerk\\Fachbereiche\\Sozialdienst\\Statistik\\2024\\StatBoardReakt_2024.xlsm",
+      "sheet": "Rohdatenimport",
+      "header_row": 12,
+      "first_data_row": 13,
+      "stand_date": "2024-12-31",
+      "enabled": false
+    }
+  ]
+}
