@@ -1,4 +1,4 @@
-Die aktuelle Arbeitsmappe ist **StatBoardReakt_2026_Dashboard_v3_geschuetzt.xlsm**.
+Die aktuelle Arbeitsmappe ist **StatBoardReakt_2026_Dashboard_v4_geschuetzt.xlsm**.
 
 In GitHub die Datei öffnen und **Download raw file** wählen. Das Öffnungskennwort wurde separat im privaten Chat mitgeteilt und steht nicht im Repository.
 
