@@ -1,8 +1,8 @@
-Die aktuelle Arbeitsmappe ist **StatBoardReakt_2026_Dashboard_v5_geschuetzt.xlsm**.
+Die aktuelle Arbeitsmappe ist **StatBoardReakt_2026_Dashboard_v6_geschuetzt.xlsm**.
 
 In GitHub die Datei öffnen und **Download raw file** wählen. Das Öffnungskennwort wurde separat im privaten Chat mitgeteilt und steht nicht im Repository.
 
-Die Arbeitsmappe im Jahresordner 2026 neben StatReaktImport.csv speichern. Die aktuellen CSV-Daten lassen sich in Excel Desktop über **Daten > Alle aktualisieren** einlesen. Die neuen Ansichten teilen ihre Filter im Blatt **Trends & Vergleich**. Jedes neue Dashboard ist auf eine DIN-A4-Hochformatseite eingerichtet. Blau umrandete Felder mit ▾ sind Auswahlmenüs; ✎ kennzeichnet eine Zahleneingabe. Über „Filter ändern“ gelangt man zu den gemeinsamen Auswahlfeldern.
+Die Arbeitsmappe im Jahresordner 2026 neben StatReaktImport.csv speichern. Die aktuellen CSV-Daten lassen sich in Excel Desktop über **Daten > Alle aktualisieren** einlesen. Die neuen Ansichten teilen ihre Filter im Blatt **Trends & Vergleich**. Jedes neue Dashboard ist auf eine DIN-A4-Hochformatseite eingerichtet. Blaugrau hinterlegte, umrandete Felder mit ▾ sind Auswahlmenüs; ✎ kennzeichnet eine Zahleneingabe. Über „Filter ändern“ gelangt man zu den gemeinsamen Auswahlfeldern.
 
 Die optionalen [Hilfsdateien für das Jahresarchiv](Jahresarchiv/Jahresarchiv_Bedienung.md) ermöglichen lokale Vergleiche abgeschlossener Jahresquellen. Es sind zunächst keine historischen Daten geladen. Die Archivverbindung ist bis zur Einrichtung deaktiviert.
 
