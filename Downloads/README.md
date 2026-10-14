@@ -1,8 +1,10 @@
-Die aktuelle Arbeitsmappe ist **StatBoardReakt_2026_Dashboard_v10_geschuetzt.xlsm**.
+Die aktuelle Arbeitsmappe ist **StatBoardReakt_2026_Dashboard_v11_geschuetzt.xlsm**.
 
 In GitHub die Datei öffnen und **Download raw file** wählen. Das bisherige Öffnungskennwort gilt weiter. Es steht ausschließlich im privaten Chat.
 
 Die Datei im Jahresordner 2026 neben **StatReaktImport.csv** speichern. Zum Einlesen der CSV in Excel Desktop **Daten > Alle aktualisieren** wählen. Die Aktualisierung und die anschließende Berechnung vollständig abwarten. Unter **Formeln > Berechnungsoptionen** muss **Automatisch** gewählt sein.
+
+Version 11 korrigiert die Diagrammdefinitionen: Wertbeschriftungen zeigen nur Zahlen, Achsen sind ausdrücklich sichtbar, Linien bleiben ungeglättet und Leerwerte werden als Lücken dargestellt. Die Navigation ist einzeilig und setzt die Ansicht zu den Kennzahlen zurück. Diese Einstellungen sind in der Datei geprüft; ein Test in Microsoft Excel Desktop wurde hier nicht durchgeführt.
 
 Die **Jahresübersicht** enthält die gemeinsamen Filter. Blaue Felder mit ▾ enthalten Auswahlmenüs. Die Vergleichsgrenze wird in Stunden eingegeben; der Tageswert steht daneben. **Monatsvergleich** und **Fachabteilungen** übernehmen die Filter. Über **Filter ändern** gelangt man zurück zur Jahresübersicht.
 
