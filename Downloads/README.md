@@ -1,10 +1,12 @@
-Die aktuelle Arbeitsmappe ist **StatBoardReakt_2026_Dashboard_v16_ohne_Makros_geschuetzt.xlsx**.
+Die aktuelle Arbeitsmappe ist **StatBoardReakt_2026_Dashboard_v17_ohne_Makros_geschuetzt.xlsx**.
 
 In GitHub die Datei öffnen und **Download raw file** wählen. Das bisherige Öffnungskennwort gilt weiter. Es steht ausschließlich im privaten Chat.
 
 Die Datei im Jahresordner 2026 neben **StatReaktImport.csv** speichern. Zum Einlesen der CSV in Excel Desktop **Daten > Alle aktualisieren** wählen. Die Aktualisierung und die anschließende Berechnung vollständig abwarten. Unter **Formeln > Berechnungsoptionen** muss **Automatisch** gewählt sein.
 
-Version 16 bleibt eine **makrofreie XLSX-Datei**. Sie enthält keinen VBA-Code, keine Makro-Schaltflächen und keine zusätzliche Maussteuerung. Makros müssen nicht aktiviert werden. Filter, Formeln, Diagramme und die CSV-Verbindung bleiben erhalten. Die CSV wird weiterhin über **Daten > Alle aktualisieren** eingelesen.
+Version 17 bleibt eine **makrofreie XLSX-Datei**. Sie enthält keinen VBA-Code, keine Makro-Schaltflächen und keine zusätzliche Maussteuerung. Makros müssen nicht aktiviert werden. Filter, Formeln, Diagramme und die CSV-Verbindung bleiben erhalten. Die CSV wird weiterhin über **Daten > Alle aktualisieren** eingelesen.
+
+Auf Seite 2 der **Jahresübersicht** haben die Tabellenzeilen jetzt 28 statt 20 Punkt Höhe. Größere Abstände trennen Diagramm, Tabelle und Erklärungen. Die beiden Erklärungstexte enthalten jeweils eine Leerzeile; der Januarhinweis erhält mehr Platz. Der kurze Hinweis am Seitenende nutzt weniger Leerraum. Die zusätzliche Achsenbeschriftung im Fallzahlendiagramm entfällt, damit sie die Skalenwerte nicht überdeckt. Die erste Seite behält ihre bisherige Darstellung.
 
 Im Diagramm **Durchschnittliche Dauer nach Monat** steht der Tageswert direkt unter dem jeweiligen Monatsnamen, jeweils mit zwei Nachkommastellen und **T**, zum Beispiel **2,34 T**. Die Werte liegen damit außerhalb der Zeichenfläche. Die Einheit steht oben im Titel; der senkrechte Achsentitel entfällt. Die Tagesachse beginnt bei null; Obergrenze und Schrittweite passen sich weiterhin der Auswahl an. Fehlende Zeitwerte erscheinen als Strich und als Lücke in der Linie. Eine tatsächliche Dauer von null wird als **0,00 T** angezeigt.
 
