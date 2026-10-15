@@ -1,12 +1,14 @@
-Die aktuelle Arbeitsmappe ist **StatBoardReakt_2026_Dashboard_v14_ohne_Makros_geschuetzt.xlsx**.
+Die aktuelle Arbeitsmappe ist **StatBoardReakt_2026_Dashboard_v15_ohne_Makros_geschuetzt.xlsx**.
 
 In GitHub die Datei öffnen und **Download raw file** wählen. Das bisherige Öffnungskennwort gilt weiter. Es steht ausschließlich im privaten Chat.
 
 Die Datei im Jahresordner 2026 neben **StatReaktImport.csv** speichern. Zum Einlesen der CSV in Excel Desktop **Daten > Alle aktualisieren** wählen. Die Aktualisierung und die anschließende Berechnung vollständig abwarten. Unter **Formeln > Berechnungsoptionen** muss **Automatisch** gewählt sein.
 
-Version 14 ist eine **makrofreie XLSX-Datei**. Sie enthält keinen VBA-Code, keine Makro-Schaltflächen und keine zusätzliche Maussteuerung. Makros müssen nicht aktiviert werden. Filter, Formeln, Diagramme und die CSV-Verbindung bleiben erhalten. Die CSV wird weiterhin über **Daten > Alle aktualisieren** eingelesen.
+Version 15 bleibt eine **makrofreie XLSX-Datei**. Sie enthält keinen VBA-Code, keine Makro-Schaltflächen und keine zusätzliche Maussteuerung. Makros müssen nicht aktiviert werden. Filter, Formeln, Diagramme und die CSV-Verbindung bleiben erhalten. Die CSV wird weiterhin über **Daten > Alle aktualisieren** eingelesen.
 
-Die Jahresübersicht behält die Aufteilung aus Version 12: Der größere Zeitverlauf steht auf Seite 1; Fallzahlen und die fünf Zeitspannen stehen auf Seite 2. „Fälle zuordnen nach“ bestimmt die Zuordnung zum Jahr und zum Monat. Median und 90-Prozent-Wert werden gemeinsam erklärt; die ersten 50 Prozent sind in den rund 90 Prozent bereits enthalten. Der kurze Datenhinweis steht ab Zeile 88. Rohdaten, Berechnungsmodelle, Verbindungen und Druckbereiche bleiben unverändert.
+Im Diagramm **Durchschnittliche Dauer nach Monat** stehen die Tageswerte direkt an der Linie, jeweils mit zwei Nachkommastellen und **T**, zum Beispiel **2,34 T**. Die Grafik ist flacher. Die Tagesachse beginnt bei null; Obergrenze und Schrittweite passen sich weiterhin der Auswahl an. Ihre Zahlen werden mit der nötigen Genauigkeit angezeigt, damit auch kleine Zeitwerte unterscheidbar bleiben. Fehlende Monate erhalten keinen Nullwert.
+
+Die Jahresübersicht behält die Aufteilung auf zwei Seiten: Der Zeitverlauf steht auf Seite 1; Fallzahlen und die fünf Zeitspannen stehen auf Seite 2. „Fälle zuordnen nach“ bestimmt die Zuordnung zum Jahr und zum Monat. Die Erklärung nennt die Zeit, innerhalb derer die Hälfte der Fälle bearbeitet wurde. Für längere Bearbeitungszeiten wird die tatsächliche Fallzahl angegeben. Das vermeidet pauschale Prozentangaben bei kleinen Fallzahlen oder gleichen Zeitwerten. Vidierung und tatsächliche Entlassung sowie die Dezemberfälle im Januarbericht sind kürzer erklärt. Der kurze Datenhinweis steht ab Zeile 88. Rohdaten, Berechnungsmodelle, Verbindungen und Druckbereiche bleiben unverändert.
 
 Die Diagramme behalten sichtbare Achsen, ungeglättete Linien und Lücken bei fehlenden Monatsdaten. Fallbalken zeigen Zahlen direkt an. Zum Ablesen einzelner Datenpunkte dienen die normalen Excel-Hinweise; alle Monatswerte stehen außerdem im Blatt **Monatsvergleich**.
 
