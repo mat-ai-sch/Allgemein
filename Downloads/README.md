@@ -1,12 +1,18 @@
-Die aktuelle Arbeitsmappe ist **StatBoardReakt_2026_Dashboard_v12_geschuetzt.xlsm**.
+Die aktuelle Arbeitsmappe ist **StatBoardReakt_2026_Dashboard_v13_geschuetzt.xlsm**.
 
 In GitHub die Datei öffnen und **Download raw file** wählen. Das bisherige Öffnungskennwort gilt weiter. Es steht ausschließlich im privaten Chat.
 
 Die Datei im Jahresordner 2026 neben **StatReaktImport.csv** speichern. Zum Einlesen der CSV in Excel Desktop **Daten > Alle aktualisieren** wählen. Die Aktualisierung und die anschließende Berechnung vollständig abwarten. Unter **Formeln > Berechnungsoptionen** muss **Automatisch** gewählt sein.
 
-Version 12 überarbeitet nur die Jahresübersicht. Der größere Zeitverlauf steht auf Seite 1; Fallzahlen und die fünf Zeitspannen stehen auf Seite 2. Doppelte Auswahlhinweise entfallen. „Fälle zuordnen nach“ ersetzt „Monat nach“: Das gewählte Datum bestimmt die Zuordnung zum Jahr und zum Monat. Median und 90-Prozent-Wert werden gemeinsam erklärt; die ersten 50 Prozent sind in den rund 90 Prozent bereits enthalten. Der kurze Datenhinweis steht ab Zeile 88. Die übrigen Ansichten, Rohdaten, Berechnungsmodelle und Verbindungen bleiben unverändert.
+Version 13 ergänzt die Maussteuerung in den beiden Diagrammen der Jahresübersicht und im Diagramm des Monatsvergleichs. Dafür die Datei in **Excel Desktop** öffnen und die Makros aktivieren. Neben der Diagrammüberschrift **Monatswerte ansehen** wählen oder das Diagramm einmal anklicken. Anschließend die Maus innerhalb der Zeichenfläche seitlich bewegen. Eine senkrechte Linie und eine Wertekarte ordnen die Mausposition dem nächsten Monat zu. Die Karte enthält den ausgeschriebenen Monat, das Jahr, die gewählte Zeitspanne, Stunden und Tage sowie die ausgewerteten und gesamten Fälle. Während einer laufenden Berechnung erscheinen keine alten Zahlen als neues Ergebnis.
 
-Die Diagramme behalten sichtbare Achsen, ungeglättete Linien und Lücken bei fehlenden Monatsdaten. Fallbalken zeigen Zahlen direkt an. Hinweise beim Zeigen auf einzelne Datenpunkte sind normale Excel-Funktionen; eine gemeinsame, dem Mauszeiger folgende Monatsanzeige über die gesamte Diagrammfläche ist nicht enthalten. Dafür wäre zusätzlicher Ereigniscode nötig. Dateistruktur, Formelverknüpfungen und die Druckaufteilung sind geprüft; ein Test in Microsoft Excel Desktop wurde hier nicht durchgeführt.
+Die Maussteuerung liest ausschließlich vorhandene Monatsergebnisse. Sie schreibt keine Datenzellen und fordert keine Neuberechnung an. Fehlende Monatsdaten, eine Auswahl ohne Fälle und fehlende Zeitwerte werden getrennt benannt. Die Startschaltflächen sind als nicht druckend eingestellt; temporäre Karten und Führungslinien werden vor dem Drucken und Speichern entfernt. Änderungen an diesen Anzeigeobjekten können eine Speichernachfrage auslösen.
+
+Die Makroquellen, ihre Einbindung und die unveränderte Datenbasis wurden geprüft. **Kompilierung und Mausbedienung in Microsoft Excel Desktop wurden hier nicht ausgeführt.** Die zugehörige Desktop-Prüfung steht noch aus. Es ist ausschließlich neuer Anzeigecode eingebunden; der frühere automatische Importcode ist nicht enthalten. Die CSV wird weiterhin über **Daten > Alle aktualisieren** eingelesen.
+
+Die Jahresübersicht behält die Aufteilung aus Version 12: Der größere Zeitverlauf steht auf Seite 1; Fallzahlen und die fünf Zeitspannen stehen auf Seite 2. „Fälle zuordnen nach“ bestimmt die Zuordnung zum Jahr und zum Monat. Median und 90-Prozent-Wert werden gemeinsam erklärt; die ersten 50 Prozent sind in den rund 90 Prozent bereits enthalten. Der kurze Datenhinweis steht ab Zeile 88. Rohdaten, Berechnungsmodelle, Verbindungen und Druckbereiche bleiben unverändert.
+
+Die Diagramme behalten sichtbare Achsen, ungeglättete Linien und Lücken bei fehlenden Monatsdaten. Fallbalken zeigen Zahlen direkt an. Ohne aktivierte Makros bleiben die Diagramme und normalen Excel-Datenpunkthinweise verfügbar; die zusätzliche Monatsanzeige benötigt den neuen Ereigniscode.
 
 Die **Jahresübersicht** enthält die gemeinsamen Filter. Blaue Felder mit ▾ enthalten Auswahlmenüs. Die Vergleichsgrenze wird in Stunden eingegeben; der Tageswert steht daneben. **Monatsvergleich** und **Fachabteilungen** übernehmen die Filter. Über **Filter ändern** gelangt man zurück zur Jahresübersicht.
 
