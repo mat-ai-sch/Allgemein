@@ -1,10 +1,12 @@
-Die aktuelle Arbeitsmappe ist **StatBoardReakt_2026_Dashboard_v19_ohne_Makros_geschuetzt.xlsx**.
+Der gewünschte Dateiname ist [**StatBoardReakt_Neu.xlsm**](StatBoardReakt_Neu.xlsm). Diese Ausgabe enthält dieselben Daten, Formeln, Diagramme und Auswahlbereiche wie Version 19. Sie enthält keinen VBA-Code. Das bisherige Öffnungskennwort gilt weiter.
+
+Die XLSX-Ausgabe ist **StatBoardReakt_2026_Dashboard_v19_ohne_Makros_geschuetzt.xlsx**.
 
 In GitHub die Datei öffnen und **Download raw file** wählen. Das bisherige Öffnungskennwort gilt weiter. Es steht ausschließlich im privaten Chat.
 
 Die Datei im Jahresordner 2026 neben **StatReaktImport.csv** speichern. Zum Einlesen der CSV in Excel Desktop **Daten > Alle aktualisieren** wählen. Die Aktualisierung und die anschließende Berechnung vollständig abwarten. Unter **Formeln > Berechnungsoptionen** muss **Automatisch** gewählt sein.
 
-Version 19 bleibt eine **makrofreie XLSX-Datei**. Sie enthält keinen VBA-Code, keine Makro-Schaltflächen und keine zusätzliche Maussteuerung. Makros müssen nicht aktiviert werden. Filter, Formeln, Diagramme und die CSV-Verbindung bleiben erhalten. Die CSV wird weiterhin über **Daten > Alle aktualisieren** eingelesen.
+Die XLSX-Ausgabe von Version 19 bleibt eine **makrofreie XLSX-Datei**. Sie enthält keinen VBA-Code, keine Makro-Schaltflächen und keine zusätzliche Maussteuerung. Makros müssen nicht aktiviert werden. Filter, Formeln, Diagramme und die CSV-Verbindung bleiben erhalten. Die CSV wird weiterhin über **Daten > Alle aktualisieren** eingelesen.
 
 **Monatsvergleich**, **Fachabteilungen** und **Jahresvergleich** folgen dem Raster und der Gestaltung der Jahresübersicht: gleiche Schriften und Bezeichnungen, ruhigere Diagramme, klare Filterfelder und feine Trennlinien zwischen Tabellenzeilen. Zweizeilige Zeitwerte stehen in 34 Punkt hohen Datensätzen. Monatsnamen werden ausgeschrieben; die Jahre sind eindeutig benannt. Der Monatsverlauf verwendet dieselbe Grafik wie die Jahresübersicht. Für Fachabteilungen bleiben die horizontalen Balken mit Tageswerten am Balkenende erhalten.
 
